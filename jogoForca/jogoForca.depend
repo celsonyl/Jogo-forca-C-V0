@@ -13,3 +13,17 @@
 	<string.h>
 	"forca.h"
 
+1571707391 source:c:\users\aluno\desktop\jogo-forca-c-v0-1\jogoforca\forca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"forca.h"
+
+1571707391 c:\users\aluno\desktop\jogo-forca-c-v0-1\jogoforca\forca.h
+
+1571707391 source:c:\users\aluno\desktop\jogo-forca-c-v0-1\jogoforca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"forca.h"
+
